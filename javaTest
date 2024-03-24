@@ -1,2 +1,24 @@
 Java QUE.
-  
+
+	//1. find largest and lowest number
+	//2. Findin num of repetation array and ssum it
+	//3. Sorting and rev sorting 
+	//4. Reading data from starting and ending & print odd nums only
+	//5. Missing num in array
+	//6. Searching elem in an array
+	//7. taking inp frm usr
+	//8. Reverse string
+	//9. Remove white spaces or spec char frm string
+	//10. Occurence of char 
+	//11. Counting words 
+
+	//12. Create class variable, method types & object 
+	//13. Method vs. constructor & types
+	//14. Polymorphism (Method & constructor overloading)
+	//15. Encapsulation
+	//16. this & staic keyword
+	//17. Inheritance &types
+	//18. Method overloading vs. Overriding
+	//19. Final & super keyword
+	
+	
